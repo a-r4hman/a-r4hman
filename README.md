@@ -1,7 +1,7 @@
 # Unite Et Prosperum - A Manifesto For A Technological Revolution #
 
 ![Untitled_Artwork](https://user-images.githubusercontent.com/93615368/140510711-e838fc4e-64cf-478c-bd39-72b389c4b225.jpg)
-
+*'There is at least the possibility, if not the probability, of changing intolerable conditions. This possibility is important, because much of human existence is based upon hope without any real understanding of the odds'* - **Huey P Newton, Revolutionary Suicide**
 
 - Community focused Creative Computing - We advocate for more accessibility to computing and design for people from all walks of life regardless of class, race, ethnicity, gender, sexuality, ability, religion, culture, age or background.
 
